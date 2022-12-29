@@ -1,0 +1,14 @@
+/.idea/
+/STM32CubeIDE/Debug/
+/STM32CubeIDE/Drivers/
+
+
+# eclipse specific git ignore
+.metadata/
+RemoteSystemsTempFiles/
+.settings/
+Debug/
+*.launch
+
+# STM32 git ignore
+*.mxproject
