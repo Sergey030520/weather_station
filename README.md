@@ -32,7 +32,7 @@
         + Получение журнала температурных показаний;
         + Очистка журнала температурных показаний. <br>
 
-![software weather station]() <br>
+![software weather station](https://github.com/Sergey030520/weather_station/blob/master/ImagesProject/software_weather_station.png) <br>
 
 
 ## Сборка проекта и тестирование <a name="build_and_testing_project"></a>
